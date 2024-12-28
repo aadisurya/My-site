@@ -1,0 +1,163 @@
+.top {
+  background-color: #E4F9F5;
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom {
+  background-color: #66BFBF;
+  margin-top: 60px;
+
+}
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding: 20px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+}
+
+.p {
+  font-weight: normal;
+}
+
+.a{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding-top: 20px;
+}
+.ad {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.as {
+  border-radius: 100%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cold-drink {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%;
+}
+
+.middle {
+  text-align: center;
+  margin: 100px 0;
+}
+
+.bottom {
+  text-align: center;
+  padding: 50px 0 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  color: #EAF6F6;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  height: 10px;
+  border-width: 10px;
+  margin: 100px auto 100px auto;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   font-family: Open Sans;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   background-color: #66BFBF;
+   border: solid #66BFBF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.bottom {
+  background-color: #66BFBF;
+}
+
+
+.contact-msg {
+  margin: 40px auto 60px auto;
+}
+
+.btn {
+  background-color: #66BFBF;
+  border:2px solid #66BFBF;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+}
+.btn:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.footer-link{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #eaf6f6;
+}
